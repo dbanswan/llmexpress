@@ -23,3 +23,6 @@ I am using [llama.cpp](https://github.com/ggerganov/llama.cpp) for inference as 
 5. The output will be displayed on the screen.
 6. You can keep the conversation going by providing more prompts.
 7. Now as you keep downloading more models, tokenizer downloads will be skipped if they are already downloaded. And you will be presented with a li st of models to choose from. So your own local model hub.
+
+
+It is currently under testing and development. As of today Sept 14/2024 it works as described above. 
